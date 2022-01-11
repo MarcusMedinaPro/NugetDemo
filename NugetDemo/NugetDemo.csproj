@@ -16,6 +16,8 @@
 		<PackageTags>calculator;math;simple;</PackageTags>
 		<ApplicationIcon>cold-temperature.ico</ApplicationIcon>
 		<PackageIcon>cold-temperature.png</PackageIcon>
+		<PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+
 	</PropertyGroup>
 
 	<ItemGroup>
