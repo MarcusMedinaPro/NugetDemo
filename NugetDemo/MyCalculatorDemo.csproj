@@ -18,6 +18,7 @@
 		<PackageIcon>cold-temperature.png</PackageIcon>
 		<PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
 
 	</PropertyGroup>
 
