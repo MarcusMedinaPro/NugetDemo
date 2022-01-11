@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<Version>1.0.0.1</Version>
+		<Authors>Marcus Medina;</Authors>
+		<Company>Codic Education AB</Company>
+		<Description>
+			A simple calculator app for demonstrating how to publish nugets
+		</Description>
+		<PackageProjectUrl>https://github.com/MarcusMedina/NugetDemo</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/MarcusMedina/NugetDemo</RepositoryUrl>
+		<PackageTags>calculator;math;simple;</PackageTags>
+		<ApplicationIcon>cold-temperature.ico</ApplicationIcon>
+		<PackageIcon>cold-temperature.png</PackageIcon>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Update="cold-temperature.ico">
+			<Pack>True</Pack>
+			<PackagePath>\</PackagePath>
+		</None>
+		<None Update="cold-temperature.png">
+			<Pack>True</Pack>
+			<PackagePath>\</PackagePath>
+		</None>	
+	</ItemGroup>
+
+</Project>
