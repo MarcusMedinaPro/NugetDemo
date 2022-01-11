@@ -11,8 +11,8 @@
 		<Description>
 			A simple calculator app for demonstrating how to publish nugets
 		</Description>
-		<PackageProjectUrl>https://github.com/MarcusMedina/NugetDemo</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/MarcusMedina/NugetDemo</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/MarcusMedina/MyCalculatorDemo</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/MarcusMedina/MyCalculatorDemo</RepositoryUrl>
 		<PackageTags>calculator;math;simple;</PackageTags>
 		<ApplicationIcon>cold-temperature.ico</ApplicationIcon>
 		<PackageIcon>cold-temperature.png</PackageIcon>

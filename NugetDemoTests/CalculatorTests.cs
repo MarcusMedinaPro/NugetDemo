@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NugetDemo;
+using MyCalculatorDemo;
 
-namespace NugetDemo.Tests
+namespace MyCalculatorDemo.Tests
 {
     [TestClass()]
     public class CalculatorTests

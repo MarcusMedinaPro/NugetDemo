@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetDemo", "NugetDemo\NugetDemo.csproj", "{4963A8F4-3689-4F6C-8F17-3E9F46A129FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCalculatorDemo", "NugetDemo\MyCalculatorDemo.csproj", "{4963A8F4-3689-4F6C-8F17-3E9F46A129FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetDemoTests", "NugetDemoTests\NugetDemoTests.csproj", "{D7CA06C1-7D33-4A7D-83B1-C2A47BD99709}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NugetDemoTests", "NugetDemoTests\NugetDemoTests.csproj", "{D7CA06C1-7D33-4A7D-83B1-C2A47BD99709}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
