@@ -21,6 +21,6 @@ jobs:
     - name: Publish MyCalculatorDemo
       uses: brandedoutcast/publish-nuget@v2.5.2
       with:
-          PROJECT_FILE_PATH: MyCalculatorDemo/MyCalculatorDemo.csproj
+          PROJECT_FILE_PATH: NugetDemo/MyCalculatorDemo.csproj
           NUGET_KEY: ${{secrets.NUGET_API_KEY}}
           PACKAGE_NAME: MyCalculatorDemo
